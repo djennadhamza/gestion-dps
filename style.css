@@ -1,0 +1,16 @@
+html, body {
+    width: 100%;
+}
+table {
+    margin: 0 auto;
+}
+
+.one {
+    width: 20%;
+    float: left;
+}
+.two {
+    margin-left: 20%;
+	padding-left : 25px;
+	padding-top : 10px;
+}
